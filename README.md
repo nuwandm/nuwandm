@@ -33,7 +33,7 @@ Familiar with:
 
 | Badge                                                                                                              | Title                  | Earned            | Link                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Postman Student Expert Badge](https://github.com/BhathiyaTK/BhathiyaTK/blob/master/images/pse.png?raw=true&s=50) | Postman Student Expert | August 22, 2023 | [See Badge ↗](https://badgr.com/backpack/badges/64e4633655f2c4246ec17a48) |
+| ![Postman Student Expert Badge](Images\pse.png) | Postman Student Expert | August 22, 2023 | [See Badge ↗](https://badgr.com/backpack/badges/64e4633655f2c4246ec17a48) |
 
 ## My Interests
 
